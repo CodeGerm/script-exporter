@@ -24,8 +24,8 @@
 	</licenses>
 	<developers>
 		<developer>
-			<name>Lei Zhang</name>
-			<email>leizhang2343@gmail.com</email>
+			<name>Weizhi Li</name>
+			<email>weizhi.li@me.com</email>
 			<organization>CodeGerm</organization>
 			<organizationUrl>https://github.com/CodeGerm</organizationUrl>
 		</developer>
@@ -103,14 +103,6 @@
 						</goals>
 					</execution>
 				</executions>
-			</plugin>
-			<plugin>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.3</version>
-				<configuration>
-					<source />
-					<target />
-				</configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
