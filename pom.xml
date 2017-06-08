@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>script-exporter</groupId>
 	<artifactId>script-exporter</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>Script exporter for prometheus.</description>
 	<url>https://github.com/CodeGerm/script-exporter</url>
@@ -14,7 +14,7 @@
 		<url>https://github.com/CodeGerm/script-exporter</url>
 		<connection>scm:git:git@github.com:CodeGerm/script-exporter.git</connection>
 		<developerConnection>scm:git:git@github.com:CodeGerm/script-exporter.git</developerConnection>
-		<tag>script-exporter-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<licenses>
 		<license>
