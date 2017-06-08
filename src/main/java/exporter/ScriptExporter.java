@@ -1,4 +1,4 @@
-package exporter;
+package main.java.exporter;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
