@@ -146,7 +146,7 @@
 							<shadedArtifactAttached>true</shadedArtifactAttached>
 							<transformers>
 								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-									<mainClass>exporter.ScriptExporter</mainClass>
+									<mainClass>main.java.exporter.ScriptExporter</mainClass>
 								</transformer>
 							</transformers>
 						</configuration>
